@@ -1,6 +1,6 @@
 [
 {
-    "userNmae": "Dinesh",
+    "username": "Dinesh",
     "userIcon": "https://",
     "conversations" : [
         {
@@ -16,7 +16,7 @@
     ]
 },
 {
-    "userNmae": "Rajesh",
+    "username":": "Rajesh",
     "userIcon": "https://",
     "conversations" : [
         {
@@ -32,7 +32,7 @@
     ]
 },
 {
-    "userNmae": "Ganesh",
+    "username":": "Ganesh",
     "userIcon": "https://",
     "conversations" : [
         {
