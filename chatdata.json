@@ -1,4 +1,5 @@
- [{
+ [
+  {
     "username": "Dinesh",
     "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
     "conversations" : [
