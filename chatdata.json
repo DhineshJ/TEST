@@ -98,6 +98,104 @@
             "dateTime" : "23/08/2019"
         } 
     ]
+},
+{
+    "username": "Dinesh",
+    "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
+    "conversations" : [
+        {
+            "text": "Hi",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi1",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello1",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        }
+    ]
+},
+{
+    "username":  "Rajesh",
+    "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
+    "conversations" : [
+        {
+            "text": "Hi",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi1",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello1",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        }
+    ]
+},
+{
+    "username": "Ganesh",
+    "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
+    "conversations" : [
+        {
+            "text": "Hi",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hi1",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello1",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        } 
+    ]
 }
 ]
 }
