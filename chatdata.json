@@ -1,90 +1,63 @@
 {
-"results": 
-[
-  
-	{
-            "username":  "Rajesh",
-            "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
-            "conversations" :
-	[
-         {   "username":"Person1",
+    "username": "Dinesh",
+    "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
+    "conversations" : [
+        {
             "text": "Hi",
             "isRecieved" : false,
             "dateTime" : "23/08/2019"
         },
         {
-            "username":"Person2",
             "text": "Hello",
             "isRecieved" : true,
             "dateTime" : "23/08/2019"
         },
-         {   "username":"Person1",
-            "text": "Hi",
+        {
+            "text": "Hi1",
             "isRecieved" : false,
             "dateTime" : "23/08/2019"
         },
         {
-            "username":"Person2",
-            "text": "Hello",
+            "text": "Hello1",
             "isRecieved" : true,
             "dateTime" : "23/08/2019"
         }
     ]
 },
 {
-    "username": "Ganesh",
-    "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
-    "conversations" : [
-         {   "username":"Person1",
-            "text": "Hi",
-            "isRecieved" : false,
-            "dateTime" : "23/08/2019"
-        },
-        {
-            "username":"Person2",
-            "text": "Hello",
-            "isRecieved" : true,
-            "dateTime" : "23/08/2019"
-        },
-         {   "username":"Person1",
-            "text": "Hi",
-            "isRecieved" : false,
-            "dateTime" : "23/08/2019"
-        },
-        {
-            "username":"Person2",
-            "text": "Hello",
-            "isRecieved" : true,
-            "dateTime" : "23/08/2019"
-        },
-    ]
-},
-{
     "username":  "Rajesh",
     "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
     "conversations" : [
-         {   "username":"Person1",
+        {
             "text": "Hi",
             "isRecieved" : false,
             "dateTime" : "23/08/2019"
         },
         {
-            "username":"Person2",
-            "text": "Hello",
+            "text": "Hi",
             "isRecieved" : true,
             "dateTime" : "23/08/2019"
         },
-         {   "username":"Person1",
+        {
             "text": "Hi",
             "isRecieved" : false,
             "dateTime" : "23/08/2019"
         },
         {
-            "username":"Person2",
             "text": "Hello",
             "isRecieved" : true,
             "dateTime" : "23/08/2019"
         },
+        {
+            "text": "Hi1",
+            "isRecieved" : false,
+            "dateTime" : "23/08/2019"
+        },
+        {
+            "text": "Hello1",
+            "isRecieved" : true,
+            "dateTime" : "23/08/2019"
+        }
     ]
 },
 {
@@ -122,6 +95,4 @@
             "dateTime" : "23/08/2019"
         } 
     ]
-}
-]
 }
