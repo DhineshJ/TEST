@@ -32,7 +32,8 @@
 {
     "username":  "Rajesh",
     "userIcon": "https://randomuser.me/api/portraits/thumb/women/80.jpg",
-    "conversations" : [
+    "conversations" :
+  [
          {   "username":"Person1",
             "text": "Hi",
             "isRecieved" : false,
